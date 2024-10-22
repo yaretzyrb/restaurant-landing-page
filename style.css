@@ -17,6 +17,12 @@
 
 body {
     font-family: "Montserrat", sans-serif;
+    /* background: linear-gradient(
+      to right,
+      #2c1a0a,
+      rgba(255, 255, 255, 0)
+    ),
+    url("./img/fondo1.jpg"); */
     background: linear-gradient(
       to right,
       #2c1a0a,
